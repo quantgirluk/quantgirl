@@ -1,5 +1,5 @@
 baseURL = "https://www.example.org/"
-theme = "hugo-apero-01"
+theme = "hugo-apero"
 languageCode = "en"
 title = "Quant Girl"
 author = "Dialid Santiago"

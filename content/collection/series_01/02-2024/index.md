@@ -2,18 +2,18 @@
 title: "2024"
 weight: 2
 subtitle: "Stochastic Processes"
-excerpt: "In this block, we'll use the postcards package to make a single 'about' home page with only R Markdown."
+excerpt: "In 2024, we reviewed 24 stochastic processes."
 date: 2024-12-01
 draft: false
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://quantgirluk.github.io/advent-calendar-2024/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/quantgirluk/advent-calendar-2024
 ---
 
 <!-- ## Pre-requisites

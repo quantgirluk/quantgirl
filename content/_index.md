@@ -1,7 +1,7 @@
 ---
 title: "Hello, world!"
 # subtitle: "Quant Girl"
-description: "I am Dialid (a.k.a. Quant Girl) a Mathematician and Quantitative Analyst based in London.
+description: "I am [Dialid](https://quantgirluk.github.io/quantgirl/about/) (a.k.a. Quant Girl) a Mathematician and Quantitative Analyst based in London.
 
 
 I love creating open source projects and writting about **financial mathematics**, **programming**, **statistics**, data visualisation, and related topics."

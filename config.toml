@@ -190,6 +190,6 @@ enableEmoji = true
     disable = false
     privacyEnhanced = true
 
-  [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[caches]
+[caches.images]
+  dir = ':cacheDir/images'

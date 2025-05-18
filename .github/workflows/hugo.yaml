@@ -65,7 +65,7 @@ jobs:
         run: git config core.quotepath false
       - name: Build with Hugo
         run: |
-          cd quantgirl \
+          cd quantgirl
           hugo \
             --gc \
             --minify \

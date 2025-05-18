@@ -2,18 +2,18 @@
 title: "2023"
 weight: 1
 subtitle: "Probability Distributions"
-excerpt: "You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page."
+excerpt: "In 2023, I used the countdown to Christmas 🎄 to explore the re-visit the world of probability distributions. Each day, we unwrapped a different distribution –exploring its shape, story, and where it appears in the real world."
 date: 2023-12-01
 draft: false
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://quantgirluk.github.io/advent-calendar-2023/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/quantgirluk/advent-calendar-2023
 ---
 
 <!-- ## Profile

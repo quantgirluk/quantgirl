@@ -1,10 +1,9 @@
 ---
-title: "Hello, world!"
-# subtitle: "Quant Girl"
-description: "I am [Dialid](https://quantgirluk.github.io/quantgirl/about/) (a.k.a. Quant Girl) a Mathematician and Quantitative Analyst based in London.
-
-
-I love creating open source projects and writting about **financial mathematics**, **programming**, **statistics**, data visualisation, and related topics."
+title: "Dialid Santiago"
+subtitle: "Mathematician | Quant | Open Source Developer"
+description: "
+I love **maths**, **finance**, and **coding**, and I work at the intersection of these fields.
+In my free time I create open-source projects about **mathematical models**,  **data visualisation**, and related topics."
 images:
   # - img/revoir.jpg
   - img/home3.png
